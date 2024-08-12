@@ -97,7 +97,7 @@ delete 연산자는 객체 프로퍼티를 제거한다 */
 //   };
 // }
 
-// const person1 = createPerson('짐코딩', 10, '헬스');
+// const person1 = createPerson('곽지욱', 10, '헬스');
 // const person2 = createPerson('홍길동', 20, '헬스');
 // const person3 = createPerson('김길동', 30, '헬스');
 // const person4 = createPerson('고길동', 40, '헬스');
